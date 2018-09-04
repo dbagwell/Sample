@@ -1,0 +1,21 @@
+{
+  "name": "Sample",
+  "version": "1.0.0",
+  "summary": "SamplePod",
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "SamplePod/Source/**/*",
+  "license": "None",
+  "authors": "David Bagwell",
+  "source": {
+    "git": "https://github.com/dmbagwell/Sample",
+    "branch": "master"
+  },
+  "homepage": "https://github.com/dmbagwell/Sample",
+  "dependencies": {
+    "Crashlytics": [
+
+    ]
+  }
+}
