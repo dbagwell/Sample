@@ -1,0 +1,27 @@
+PODS:
+  - Crashlytics (3.10.7):
+    - Fabric (~> 1.7.11)
+  - Fabric (1.7.11)
+  - SamplePod (1.0.0):
+    - Crashlytics
+
+DEPENDENCIES:
+  - SamplePod (from `SamplePod`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Crashlytics
+    - Fabric
+
+EXTERNAL SOURCES:
+  SamplePod:
+    :path: SamplePod
+
+SPEC CHECKSUMS:
+  Crashlytics: ccaac42660eb9351b9960c0d66106b0bcf99f4fa
+  Fabric: f233c9492b3bbc1f04e3882986740f7988a58edb
+  SamplePod: 985160fb1483245932b6e2de93534d36f73543ad
+
+PODFILE CHECKSUM: 091be5ecdf4dcec81f544d4544e4b5a405f384bb
+
+COCOAPODS: 1.5.3
